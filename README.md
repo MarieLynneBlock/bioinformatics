@@ -59,8 +59,8 @@ BIO 1311 | [Introduction to Biology](https://www.edx.org/course/introduction-bio
 CHEM 1311 | [Principles of  Chemistry](http://ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/) | 15 Weeks | 4-6 Hours/Week |
 COMP 1311a | [CS 1 - Python 1 ](https://www.coursera.org/learn/interactive-python-1) | 5 Weeks | 7-10 Hours/Week | [99.8%](https://www.coursera.org/account/accomplishments/certificate/KKG5VHU57Y)
 COMP 1311b | [CS 1 - Python 2 ](https://www.coursera.org/learn/interactive-python-2) | 4 Weeks | 7-10 Hours/Week | [100.0%](https://www.coursera.org/account/accomplishments/certificate/85KYL48VDQ)
-COMP 1311c | [CS 1 - Principles of Computing 1 ](https://www.coursera.org/learn/principles-of-computing-1) | 4 Weeks | 6 Hours/Week |
-COMP 1311d | [CS 1 - Principles of Computing 2 ](https://www.coursera.org/learn/principles-of-computing-2) | 4 Weeks | 6 Hours/Week | 
+COMP 1311c | [CS 1 - Principles of Computing 1 ](https://www.coursera.org/learn/principles-of-computing-1) | 4 Weeks | 7-10 Hours/Week | [96.6%](https://www.coursera.org/account/accomplishments/certificate/CLKBLGZQHQ)
+COMP 1311d | [CS 1 - Principles of Computing 2 ](https://www.coursera.org/learn/principles-of-computing-2) | 4 Weeks | 7-10 Hours/Week | [100.0%](https://www.coursera.org/account/accomplishments/certificate/4AFK8ZJBLB)
 MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | 4 Weeks | 6 Hours/Week
 MATH 1312 | [Pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) | 4 Weeks | 6 Hours/Week
 MATH 1313 | [Calculus 1 - Functions](https://www.coursera.org/learn/single-variable-calculus) | 3 Weeks | 8 Hours/Week
