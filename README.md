@@ -53,7 +53,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 ### 1st Year
 
-Code | Course | Duration | Effort | Grade * | Institute
+Code | Course | Duration | Effort | Grade❶ | Institute
 :-- | :--: | :--: | :--: | :--: | :--:
 BIO 1311 | [Introduction to Biology](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2) | 12 weeks | 7-14 Hours/Week | t.b.a. | MIT
 CHEM 1311 | [Principles of  Chemistry](http://ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/) | 15 Weeks | 4-6 Hours/Week |
@@ -68,7 +68,7 @@ MATH 1314 | [Calculus 2 - Differentiation](https://www.coursera.org/learn/differ
 MATH 1315 | [Introduction to Probability and Data (with R)](https://www.coursera.org/learn/probability-intro) | 5 Weeks | 6 Hours/Week
 
 
-* click on the grade to see the certificate
+❶ click on the grade to see the certificate
 
 
 ### 2nd Year
