@@ -55,7 +55,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 Code | Course | Duration | Effort | Grade * | Institute
 :-- | :--: | :--: | :--: | :--: | :--:
-BIO 1311 | [Introduction to Biology](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2) | 12 weeks | 7-14 Hours/Week | t.b.a. | Harvard University
+BIO 1311 | [Introduction to Biology](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2) | 12 weeks | 7-14 Hours/Week | t.b.a. | MIT
 CHEM 1311 | [Principles of  Chemistry](http://ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/) | 15 Weeks | 4-6 Hours/Week |
 COMP 1311a | [CS 1 - Python 1 ](https://www.coursera.org/learn/interactive-python-1) | 5 Weeks | 7-10 Hours/Week | [99.8%](https://www.coursera.org/account/accomplishments/certificate/KKG5VHU57Y) | Rice University
 COMP 1311b | [CS 1 - Python 2 ](https://www.coursera.org/learn/interactive-python-2) | 4 Weeks | 7-10 Hours/Week | [100.0%](https://www.coursera.org/account/accomplishments/certificate/85KYL48VDQ) | Rice University
